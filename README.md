@@ -1,15 +1,1 @@
-<div align="center">
-
-  <img src="https://file.garden/aW26Bw2LYQfOzvvc/20260214_125539.gif" width="360">
-
-  $\text{\color{#cb8d95} tripmine⠀━⠀19⠀she〳her  transfem sapphic}$\
-$\text{\color{#cb8d95}nonsharing madkit + medkit yume  madkits n1 fan}$\
-$\text{\color{#cb8d95}c+h + w2i always  madmedspace ceo}$\
-$\text{\color{#cb8d95}ac - exeluver, me}$
-
-\
-[ⅰ](https://rentry.co/madmedspace) [ⅱ](https://guns.lol/madmedspace)
-
-<img src="https://komarev.com/ghpvc/?username=madmedspace&label=test_subjects&color=cb8d95&style=plastic"> </p>
- 
-</div>
+retheming theyr coming for me!!!!!!!!!!
