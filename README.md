@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<img width="394" height="263" alt="meow" src="https://i.postimg.cc/MTbc967Y/notepad.png"/>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <a href="https://samuelfrnwilliams.atabook.org"><img width="263" height="251" alt="meow" src="https://i.postimg.cc/zDw29vTg/sam.png"/></a>
+<img width="394" height="263" alt="meow" src="https://i.postimg.cc/sXGZV5Gb/stuff.png"/>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <a href="https://samuelfrnwilliams.atabook.org"><img width="263" height="251" alt="meow" src="https://i.postimg.cc/zDw29vTg/sam.png"/></a>
 </a>
 
 <br>
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<a href="https://samuelfrnwilliams.straw.page/"><img width="290" height="235" alt="meow" src="https://i.postimg.cc/63XgvvdB/jake.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <img width="394" height="263" alt="meow" src="https://i.postimg.cc/cLgK8yJn/notepad2.png"/>
+<a href="https://samuelfrnwilliams.straw.page/"><img width="290" height="235" alt="meow" src="https://i.postimg.cc/63XgvvdB/jake.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <img width="394" height="263" alt="meow" src="https://i.postimg.cc/mD1Fb71d/stuff2.png"/>
 
 <br>
 <br>
