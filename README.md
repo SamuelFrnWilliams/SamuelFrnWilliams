@@ -1,46 +1,26 @@
 <div align=center>
 
-
-<img width="800" height="160" alt="meow" src="https://i.postimg.cc/RFqFLSbd/border1.png" />
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=10000000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Here+we+go+again." />
-<br>
-<br>
-<br>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=10000000&color=FF523A&center=true&vCenter=true&width=600&lines=Here+we+go+again." />
+ 
 <br>
 <br>
 <br>
 
-<img width="394" height="263" alt="meow" src="https://i.postimg.cc/sXGZV5Gb/stuff.png"/>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <a href="https://samuelfrnwilliams.atabook.org"><img width="263" height="251" alt="meow" src="https://i.postimg.cc/zDw29vTg/sam.png"/></a>
+<img width="696" height="696" alt="meow" src="https://i.postimg.cc/52ZxG5pz/thingy.png" />
+
+<br>
+<br>
+<br>
+
+<a href="https://samuelfrnwilliams.atabook.org"><img width="340" height="93" alt="meow" src="https://i.postimg.cc/DyxQq06j/ata.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <a href="https://samuelfrnwilliams.straw.page"><img width="340" height="93" alt="meow" src="https://i.postimg.cc/jqzZJRGJ/straw.png"/></a>
 </a>
 
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<img width="666" height="78" alt="meow" src="https://i.postimg.cc/fL2S1xWH/spit.png"/>
-
-<br>
-<br>
-<br>
-
-<a href="https://samuelfrnwilliams.straw.page/"><img width="290" height="235" alt="meow" src="https://i.postimg.cc/63XgvvdB/jake.png"/></a> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  <img width="394" height="263" alt="meow" src="https://i.postimg.cc/mD1Fb71d/stuff2.png"/>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  <h6> art by tamagor on tumblr - looks good on pc only </h6>
-  <img width="800" height="160" alt="meow" src="https://i.postimg.cc/LXhX3903/border2.png" />
+  <h6> Art by _bananasher on x. </h6>
