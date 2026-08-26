@@ -20,7 +20,5 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
   <h6> Art by _bananasher on x. </h6>
