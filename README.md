@@ -21,4 +21,4 @@
 <br>
 <br>
 
-  <h6> Art by _bananasher on x. </h6>
+<p align="center"> ${\text{\color{#FFBA68}Art by [underscore]bananasher on X.}}$ </p>
